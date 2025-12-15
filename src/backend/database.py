@@ -220,7 +220,7 @@ initial_announcements = [
         "title": "Welcome Back Students!",
         "message": "Welcome back to Mergington High School! We hope you had a great summer. Don't forget to check out our exciting extracurricular activities for this semester.",
         "start_date": "2025-08-25",
-        "expiration_date": "2025-09-15",
+        "expiration_date": "2026-01-15",
         "created_by": "principal",
         "created_at": "2025-08-20T08:00:00Z"
     }
